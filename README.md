@@ -22,5 +22,5 @@ ZHVI is a smoothed, seasonally adjusted measure of the typical home value and ma
 
 There are other datasets that are quite interesting for further exploration but will not be utilized in this projects: ZHVI for all type of home, including condo/co-op, rental data set, and actual inventory and sales.
 
-### Visualization
+## Visualization
 
