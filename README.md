@@ -19,3 +19,5 @@ We are particularly interested in the following datasets:
 1. Zillow Home Value Index (ZHVI) for Single Family Homes. This data setc can be downloaded here: http://files.zillowstatic.com/research/public_v2/zhvi/Zip_Zhvi_SingleFamilyResidence.csv
 
 ZHVI is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. In this project I chose to investigate the home value in a certain ZIP code.
+
+There are other datasets that are quite interesting for further exploration but will not be utilized in this projects: ZHVI for all type of home, including condo/co-op, rental data set, and actual inventory and sales.
