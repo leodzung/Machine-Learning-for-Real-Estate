@@ -32,6 +32,10 @@ There are other datasets that are quite interesting for further exploration but 
 
 ![Forecast by State](/image/state_forecast.png)
 
+This is quite interesting: Zillow forecasted that the real estate market will come to a recession in the aforementioned articles, but also sent the same message in their forecast dataset. AZ is the only state that median home value is not going down. State-wide, the real-estate market is not looking strong for 2020.
+
 ![New Listing](/image/new_listing.png)
+
+If the number of new listing is an indicator of market growth, the real-estate marker is not looking very well starting 2019. The downward trending started Jan 2019 in most of the state that I looked at. This chart only show 7 states - CA, CO, FL, GA, MA, MS, TX.
 
 ![Massachusetts](/image/massachusetts.png)
