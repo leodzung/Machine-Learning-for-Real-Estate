@@ -41,3 +41,7 @@ If the number of new listing is an indicator of market growth, the real-estate m
 On the other hand, this one can be explain that the real-esate value is growing (which is directly opposite with Zillow forecast) so people are holding on to their properties with the hope to sell at a much higher price later on.
 
 ![Massachusetts](/image/massachusetts.png)
+
+I am living in Massachusetts so that's why I am curious and wanted to look at the real-estate market in this state. The median housing price is still trending upward, although it is not as steep as in 2013 - 2018 period.
+
+Brookline median housing price (approx. $2M - April 2020) has been historically almost doubled those of Cambridge and Newton areas (approx. $1M - April 2020).
