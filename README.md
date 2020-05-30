@@ -38,4 +38,6 @@ This is quite interesting: Zillow forecasted that the real estate market will co
 
 If the number of new listing is an indicator of market growth, the real-estate marker is not looking very well starting 2019. The downward trending started Jan 2019 in most of the state that I looked at. This chart only show 7 states - CA, CO, FL, GA, MA, MS, TX.
 
+On the other hand, this one can be explain that the real-esate value is growing (which is directly opposite with Zillow forecast) so people are holding on to their properties with the hope to sell at a much higher price later on.
+
 ![Massachusetts](/image/massachusetts.png)
