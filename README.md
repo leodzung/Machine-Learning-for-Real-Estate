@@ -24,3 +24,4 @@ There are other datasets that are quite interesting for further exploration but 
 
 ## Visualization
 
+![Forecast by State](/image/state_forecast.png)
